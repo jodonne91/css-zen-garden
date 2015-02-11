@@ -1,0 +1,12 @@
+/*
+  This applies a light CSS reset to all elements on the page.
+  It sets the font for everything to the custom font linked to
+  in the page header as well.
+*/
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: ff-tisa-web-pro, serif;
+}
