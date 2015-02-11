@@ -5,7 +5,6 @@
 */
 
 .header-link {
-	font-family: serif;
 	font-size: 20px;
 	text-decoration: none;
 	color: white;
@@ -13,6 +12,7 @@
 
 .header-gray-link {
 	color: #9DA4AB;
+	font-size: 16px;
 }
 
 
@@ -29,8 +29,8 @@
 	display: inline-block;
 	color: #90999F;
 	float: right;
-	padding-top: 25px;
-	padding-right: 20px;
+	padding-top: 22px;
+	padding-right: 40px;
 }
 
 .header-button-link {
@@ -59,13 +59,14 @@
 }
 
 .subheader-links {
-	padding-left: 70px;
+	padding: 15px 0px 15px 70px;
 }
 
 .course-title{
 	font-size: 3em;
-	border-bottom: 2px solid #E5C099;
-	padding-left: 70px;
+	border-bottom: 4px solid #E5C099;
+	margin-left: 70px;
+	margin-right: 70px;
 }
 
 .tagline {
@@ -93,10 +94,7 @@
 .content {
 	margin-left: 70px;
 	margin-top: 34px;
-}
-
-.margin-top {
-	margin-top: 20px;
+	margin-right: 70px;
 }
 
 .key-item {
@@ -105,6 +103,7 @@
 	text-align: center;
 	padding: 10px;
 	font-size: 18px;
+	width: 33%;
 }
 
 .key-image {
